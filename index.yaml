@@ -3,6 +3,17 @@ entries:
   ietf-at-ui:
   - apiVersion: v2
     appVersion: v0.15.4
+    created: "2023-12-18T08:10:06.538688219Z"
+    description: UI for IETF Author Tools
+    digest: 43da6734be4f666ece8c07fe869a7bbd376bf721c0a4c2e0758ee7315f471b38
+    icon: https://authors.ietf.org/_assets/favicons/favicon-32x32.png
+    name: ietf-at-ui
+    type: application
+    urls:
+    - https://github.com/meadmaker/ietf-at-ui/releases/download/ietf-at-ui-0.1.1/ietf-at-ui-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
+    appVersion: v0.15.4
     created: "2023-12-18T07:14:33.632139785Z"
     description: UI for IETF Author Tools
     digest: 80d5699123be20688a374f551363208cb82a5a89b694414cd4a2cedde517858a
@@ -12,4 +23,4 @@ entries:
     urls:
     - https://github.com/meadmaker/ietf-at-ui/releases/download/ietf-at-ui-0.1.0/ietf-at-ui-0.1.0.tgz
     version: 0.1.0
-generated: "2023-12-18T07:14:33.632149874Z"
+generated: "2023-12-18T08:10:06.538700713Z"
